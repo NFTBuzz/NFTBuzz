@@ -1,1 +1,2 @@
-This repo hosts blogs of nftbuzztoday.com
+Hi!
+Welcome to NFTBuzz
